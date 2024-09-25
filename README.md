@@ -1,13 +1,10 @@
 # Hey there, I'm Anne-Sophie (æn'soʊfi) 👋🏾
 
  I'm a passionate Software Engineer dedicated to crafting accessible and user-friendly applications that directly address real-world challenges and enhance user satisfaction, thereby contributing to business growth.
-
-🔍 Currently, I'm looking for my next opportunity to take on fresh challenges.
-
 ## About Me
 
 - 🌍 I'm based in Toronto, Canada 🇨🇦 
-- 🌱 I'm currently honing my skills in: Python
+- 🌱 I'm currently honing my skills in: Java
 - 💬 Languages: Fluent in French and English
 - 🚀 I'm currently working on an ecommerce website
 - 💡 Fun fact: Prepping for code by conquering CrossFit challenges
